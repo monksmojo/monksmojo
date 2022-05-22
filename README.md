@@ -17,7 +17,7 @@
 
 - 🤝 Freelence Project I am working on **[Frozen Needles](https://www.instagram.com/frozenneedle/?hl=en)**
 
-- 📝 I am mostly active on [LinkedIn](https://www.linkedin.com/in/monksmojo)
+- 📝 I am mostly active on **[LinkedIn](https://www.linkedin.com/in/monksmojo)**
 
 - 💬 Ask me about **python and code optimizations**
 
@@ -25,7 +25,7 @@
 
 - 📄 Hire me If you like my work **[My Resume](https://www.linkedin.com/in/monksmojo/overlay/1635491424217/single-media-viewer/)**
 
-- ⚡ Fun fact **You can't determine the output of the problem unless you code it**
+- ⚡ Fun fact **You can't solve the problem unless you code it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
