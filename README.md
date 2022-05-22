@@ -4,8 +4,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/19303003/169715734-2aedae6f-f252-4986-9789-78ef353237e0.png" alt="monksmojo" height="270" width="812" />
 <br/>
 
-<sup><sub>👨‍🚀 ***[ Code Ranger ]()*** 👨‍🚀</sup></sub><br/>
-<sup><sub>⚡🚀 ***Fuled By [ राधा श्याम गिरिधर गोपाल ](https://www.instagram.com/reel/CZQzqsjIG-7/?utm_source=ig_web_copy_link)  Supermacy*** 🚀⚡</sup></sub>
+<sup><sub>👨‍🚀 ***[ Code Ranger ]()*** 👨‍🚀⚡🚀 ***Fuled By [ राधा श्याम गिरिधर गोपाल ](https://www.instagram.com/reel/CZQzqsjIG-7/?utm_source=ig_web_copy_link)  Supermacy*** 🚀⚡</sup></sub>
 </div>
 <p align="left"> <a href="https://twitter.com/monks_mojo" target="blank"><img src="https://img.shields.io/twitter/follow/monks_mojo?logo=twitter&style=for-the-badge" alt="monks_mojo" /></a> </p>
 
