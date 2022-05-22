@@ -4,7 +4,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/19303003/169715734-2aedae6f-f252-4986-9789-78ef353237e0.png" alt="monksmojo" height="270" width="812" />
 <br/>
 
-<sup><sub>👨‍🚀 ***[ Code Ranger ]()*** 👨‍🚀⚡🚀 ***Fuled By [ राधा श्याम गिरिधर गोपाल ](https://www.instagram.com/reel/CZQzqsjIG-7/?utm_source=ig_web_copy_link)  Supermacy*** 🚀⚡</sup></sub>
+<sup><sub>👨‍🚀 **Code Ranger** 👨‍🚀⚡🚀 **_Fuled By [ राधे श्याम गिरिधर गोपाल ](https://www.instagram.com/reel/CZQzqsjIG-7/?utm_source=ig_web_copy_link) Supermacy_** 🚀⚡</sup></sub>
+
 </div>
 <p align="left"> <a href="https://twitter.com/monks_mojo" target="blank"><img src="https://img.shields.io/twitter/follow/monks_mojo?logo=twitter&style=for-the-badge" alt="monks_mojo" /></a> </p>
 
@@ -30,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/monks_mojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monks_mojo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monksmojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monksmojo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@monks_mojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@monks_mojo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@monks_mojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monks_mojo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
